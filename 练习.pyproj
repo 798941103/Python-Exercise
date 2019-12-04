@@ -22,28 +22,31 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="练习10.py">
+    <Compile Include="练习10埃拉托色尼筛选法.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="练习11.py">
+    <Compile Include="练习11装饰器.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="练习12.py">
+    <Compile Include="练习12类与对象.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="练习13.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="练习14.py">
+    <Compile Include="练习14鸭子类型.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="练习15.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="练习16.py">
+    <Compile Include="练习16%40preperty.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="练习17.py">
+    <Compile Include="练习17super%28%29.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习18.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="练习6.py">
