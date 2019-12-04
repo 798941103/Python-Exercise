@@ -22,6 +22,30 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="练习10.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习11.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习12.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习13.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习14.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习15.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习16.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习17.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="练习6.py">
       <SubType>Code</SubType>
     </Compile>
@@ -36,6 +60,15 @@
     </Compile>
     <Compile Include="练习1.py" />
     <Compile Include="练习5.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习7.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习8.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习9.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
