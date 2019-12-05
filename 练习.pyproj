@@ -5,7 +5,7 @@
     <ProjectGuid>8bff8a17-d475-42f5-b1ff-567f699262bd</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>练习1.py</StartupFile>
+    <StartupFile>练习01.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -46,32 +46,41 @@
     <Compile Include="练习17super%28%29.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="练习18.py">
+    <Compile Include="练习18定制类.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="练习6.py">
+    <Compile Include="练习19枚举.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="练习4.py">
+    <Compile Include="练习20元类.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="练习3.py">
+    <Compile Include="练习06.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="练习2.py">
+    <Compile Include="练习04.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="练习1.py" />
-    <Compile Include="练习5.py">
+    <Compile Include="练习03.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="练习7.py">
+    <Compile Include="练习02.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="练习8.py">
+    <Compile Include="练习01.py" />
+    <Compile Include="练习05.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="练习9.py">
+    <Compile Include="练习07.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习08.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习09.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习21错误处理.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
