@@ -83,6 +83,18 @@
     <Compile Include="练习21错误处理.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="练习22单元测试.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习23文档测试.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习24文件读取与写入.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习25StringIO与StringIO.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
