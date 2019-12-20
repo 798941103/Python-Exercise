@@ -22,6 +22,15 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="实验.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习26操作文件和目录.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习27序列化.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="练习10埃拉托色尼筛选法.py">
       <SubType>Code</SubType>
     </Compile>
@@ -93,6 +102,27 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="练习25StringIO与StringIO.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习28进程1.0.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习29进程2.0.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习30线程.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习31ThreadLocal.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习32分布式进程-子进程.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习32分布式进程-主进程.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="练习33正则表达式.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
